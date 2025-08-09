@@ -28,6 +28,7 @@ Meu foco é **otimização, segurança** e a adoção de **boas práticas** na g
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
 **Monitoramento e Gestão de Serviços**  
 ![Zabbix](https://img.shields.io/badge/Zabbix-DC382D?style=for-the-badge&logo=zabbix&logoColor=white)
@@ -45,8 +46,11 @@ Meu foco é **otimização, segurança** e a adoção de **boas práticas** na g
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Cloud**  
+**Cloud & DevOps**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
 
@@ -117,4 +121,3 @@ Meu foco é **otimização, segurança** e a adoção de **boas práticas** na g
 ---
 
 > _"Tecnologia é sobre resolver problemas e conectar pessoas."_ 🚀
-
