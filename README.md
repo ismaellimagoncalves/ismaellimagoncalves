@@ -13,37 +13,40 @@ Meu foco é **otimização, segurança** e a adoção de **boas práticas** na g
 
 ---
 
-## 🛠 Tecnologias & Ferramentas
+## 🚀 Tecnologias & Ferramentas
 
 **Sistemas Operacionais e Virtualização**  
-- Linux (intermediário/avançado)  
-- Windows Server (intermediário)  
-- Hyper-V (intermediário)  
-- Proxmox (intermediário)  
-- VMware (básico/intermediário)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D7?style=for-the-badge&logo=windows&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
 **Containers e Orquestração**  
-- Docker e Docker Compose (intermediário)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
 **Monitoramento e Gestão de Serviços**  
-- Zabbix (intermediário)  
-- GLPI (básico/intermediário)  
+![Zabbix](https://img.shields.io/badge/Zabbix-DC382D?style=for-the-badge&logo=zabbix&logoColor=white)
+![GLPI](https://img.shields.io/badge/GLPI-2E74B5?style=for-the-badge)
 
 **Redes e Segurança**  
-- Infraestrutura de servidores  
-- Active Directory, DNS  
-- Firewalls: iptables, UFW, Windows Defender Firewall (intermediário)  
+![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-003366?style=for-the-badge&logo=microsoft&logoColor=white)
+![iptables](https://img.shields.io/badge/iptables-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![UFW](https://img.shields.io/badge/UFW-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Defender Firewall](https://img.shields.io/badge/Windows_Defender_Firewall-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 **Linguagens e Scripts**  
-- Bash (intermediário)  
-- Python (básico/intermediário)  
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Cloud**  
-- AWS (básico/intermediário)  
-
-**Outros**  
-- Manutenção e suporte técnico em equipamentos de TI (intermediário)  
-- Documentação de processos e atendimento técnico (intermediário)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
@@ -96,17 +99,22 @@ Meu foco é **otimização, segurança** e a adoção de **boas práticas** na g
 
 ## 📫 Contato
 
-- LinkedIn: [linkedin.com/in/ismael-lima-1489a0293](https://www.linkedin.com/in/ismael-lima-1489a0293/)  
-- Email: [ismaelldellima@gmail.com](mailto:ismaelldellima@gmail.com)  
-- GitHub: [github.com/ismaellimagoncalves](https://github.com/ismaellimagoncalves)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-lima-1489a0293/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismaelldellima@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ismaellimagoncalves)  
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ismaellimagoncalves&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ismaellimagoncalves&show_icons=true&theme=tokyonight&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaellimagoncalves&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
 > _"Tecnologia é sobre resolver problemas e conectar pessoas."_ 🚀
+
